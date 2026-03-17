@@ -59,19 +59,21 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/code-dev-007/code-dev-007/output/snake-dark.svg" />
+</p>
 
 ---
 
 ## 🔗 Connect with Me
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_PROFILE">
+  <a href="https://www.linkedin.com/in/sanathshukla27/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/code-dev-007">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-shuklasanath999@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </div>

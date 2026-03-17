@@ -25,6 +25,7 @@
 ### 📱 Mobile App Development
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50"/>
 </p>
 
 ### 🤖 AI / ML

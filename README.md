@@ -4,7 +4,7 @@
 
 🚀 **AI-Research | Data Analyst | Full Stack Developer | Tech Enthusiast**
 
-🎓 MCA (AI & Data Science) student focused on building AI-powered, data-driven systems using machine learning, data science, and full-stack development, with an interest in scalable, real-world solutions.
+ MCA (AI & Data Science) student focused on building AI-powered, data-driven systems using machine learning, data science, and full-stack development, with an interest in scalable, real-world solutions.
 
 ---
 

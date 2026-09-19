@@ -1,20 +1,20 @@
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30%" /> </p>
+<h1>💫 Hi 👋, I'm Sanath Shukla</h1>
+<h2>🚀 AI-Research | Data Analyst | Full Stack Developer | Tech Enthusiast</h2>
 
-<h1 align="center">Hi 👋, I'm SANATH SHUKLA</h1>
+MCA (AI & Data Science) student focused on building AI-powered, data-driven systems using machine learning, data science, and full-stack development, with an interest in scalable, real-world solutions.
+<div align="center">
+  <img height="350" src="giphy_.gif" />
+  <br/><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Sanath+Shukla;AI+%7C+ML+%7C+Data+Science;Lifelong+Learner+%26+Builder" alt="Typing SVG" />
+</div>
 
 <br>
 
-🚀 **AI-Research | Data Analyst | Full Stack Developer | Tech Enthusiast**
-
- MCA (AI & Data Science) student focused on building AI-powered, data-driven systems using machine learning, data science, and full-stack development, with an interest in scalable, real-world solutions.
-
----
-
-<h2 align="center"> 💻 Tech Stack</h2>
+<h1> 💻 Tech Stack</h1>
 
 ### 🗣️ Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,php,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,php,python,r" />
 </p>
 
 ### 🌐 Frontend Development
@@ -50,12 +50,13 @@
 
 ### 🚀 DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins" />
 </p>
 
 ---
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=code-dev-007&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=code-dev-007&theme=tokyonight&hide_border=false)
@@ -71,16 +72,21 @@
 ---
 
 ## 🔗 Connect with Me
+
 <div align="center">
+
   <a href="https://www.linkedin.com/in/sanathshukla27/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
+
   <a href="https://github.com/code-dev-007">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
+
   <a href="mailto:your-shuklasanath999@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
+
 </div>
 
 ---
